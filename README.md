@@ -15,10 +15,11 @@
 #### `training`
 > handle the pictures or videos train
 
-#### `index.py`
+#### `app.py`
 > our application main entrance
 
 ---
 
 Thanks,
+
 Mingliang ZHOU
